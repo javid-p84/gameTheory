@@ -41,7 +41,8 @@ public class frmStartUp extends JDialog {
 
     private void onOK() {
 // add your code here
-        dispose();
+      //  dispose();
+        this.dispose();
     }
 
     private void onCancel() {
